@@ -31,7 +31,7 @@ The command starts the Web UI at `http://127.0.0.1:3080` by default and opens it
 To run from a repository checkout:
 
 ```sh
-git clone https://github.com/deepseek-ai/deepseek-harness.git
+git clone https://github.com/paikeywu/deepseek-harness-seed.git
 cd deepseek-harness
 pnpm install
 pnpm run build
@@ -42,7 +42,7 @@ pnpm dsh web
 
 ## Community and support
 
-- Submit feedback or bug reports through [GitHub Discussions](https://github.com/deepseek-ai/deepseek-harness/discussions).
+- Submit feedback or bug reports through [GitHub Discussions](https://github.com/paikeywu/deepseek-harness-seed/discussions).
 - Add the [`dsh-plugin`](https://github.com/topics/dsh-plugin) topic to your plugin repository for discoverability.
 - Join <a href="https://discord.gg/4MrtZUhpxg">DeepSeek Harness Discord community</a>.
 
@@ -66,7 +66,7 @@ For agents, follow [AGENTS.md](AGENTS.md).
   author={DeepSeek-AI},
   year={2026},
   publisher={GitHub},
-  howpublished={\url{https://github.com/deepseek-ai/deepseek-harness}},
+  howpublished={\url{https://github.com/paikeywu/deepseek-harness-seed}},
 }
 ```
 
